@@ -6,7 +6,7 @@ Please find the all the instruction you need in `challengeExplaination.md` file
 
 ### Resources
 
-These are some reasources to help you out with you chanllenge:
+These are some resources to help you out with you chanllenge:
 
 1. Using HTML tags: https://www.w3schools.com/html/html_images.asp
 2. Using arrays in JavaScript: https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/
