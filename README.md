@@ -1,6 +1,6 @@
 # SCT_CodingChallenge
 
-### Where to begin
+### Where to start
 
 Please find the all the instruction you need in `challengeExplaination.md` file
 
