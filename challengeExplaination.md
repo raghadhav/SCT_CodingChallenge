@@ -8,7 +8,7 @@ In the `passengerInfo.js` file, you have two functions `checkPassengersCount` an
 
 3. Use the function `checkPassangersCount` to return how many passengers are travelling.
 
-4. Use the function `checkPassangersOfSameAge` to write a code that check how many passengers has the same age, return the number of these passengers.
+4. Use the function `checkPassangersOfSameAge` to write a code that check how many passengers that their age is 24, return the number of these passengers.
 
 5. Display the return of each function in the `passengerDisplay.html`
 
